@@ -1,0 +1,28 @@
+body{
+	background-color: #003366;
+	background-image: url("C:/Users/Ayesha/Documents/cv/images/back.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1{
+	color:red;
+}
+hr{
+	color:red;
+}
+p{
+	color: white;
+}
+span{
+	color:white;
+}
+div{
+	color:white;
+}
+a
+{
+	color:#b3daff;
+}
+h3{
+	color: orange;
+}
